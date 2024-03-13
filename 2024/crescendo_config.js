@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023tnkn",
+      "defaultValue": " ",
       "required": "true"
     },
     { "name": "Match Level",
@@ -182,7 +182,7 @@ var config_data = `
     { "name": "Comments",
       "code": "co",
       "type": "text",
-      "size": 15,
+      "size": 30,
       "maxSize": 55
     }
   ]
