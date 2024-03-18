@@ -182,8 +182,8 @@ var config_data = `
     { "name": "Comments",
       "code": "co",
       "type": "text",
-      "size": 30,
-      "maxSize": 55
+      "size": 55,
+      "maxSize": 100
     }
   ]
 }`;
