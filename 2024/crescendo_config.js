@@ -29,7 +29,7 @@ var config_data = `
     { "name": "Specimen - High Chamber", "code": "tshc", "type": "counter" }
   ],
   "endgame": [
-    { "name": "Ascent Le vel 1", "code": "al1", "type": "bool" },
+    { "name": "Ascent Level 1", "code": "al1", "type": "bool" },
     { "name": "Ascent Level 2", "code": "al2", "type": "bool" },
     { "name": "Ascent Level 3", "code": "al3", "type": "bool" }
   ],
